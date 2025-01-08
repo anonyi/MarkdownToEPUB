@@ -39,9 +39,10 @@ generator.CreateEpub(
 Make sure your chapter files are named numerically (e.g., 1.md, 2.md, 3.md) and located in the specified chapters directory.
 
 ## Project Structure
-EpubGenerator.cs: Main class containing the EPUB generation logic
-Chapter.cs: Class representing a book chapter
-Contributing
+- EpubGenerator.cs: Main class containing the EPUB generation logic
+- Chapter.cs: Class representing a book chapter
+  
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
